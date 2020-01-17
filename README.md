@@ -2,7 +2,7 @@
 
 ### Tasks performed:
     - Data preparation
-    - Text preprocessing with tokenization and stemming
+    - Text preprocessing with tokenization, stemming and stop words removal
     - Vector representation of text data using TF-IDF (Term frequency - Inverse document frequency)
     - Text summarization using TextRank algorithm
     - Product category classification using Random Forest classifier
